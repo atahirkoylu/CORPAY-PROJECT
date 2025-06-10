@@ -18,8 +18,33 @@ risk profiles, and poor payment behavior. The underperformance of this group rai
 about the program's effectiveness and whether these customers should be opted out to
 mitigate associated risk.
 
-##Opt-In Reassessment: Conversely, there exists a subgroup of customers who were initially
+Opt-In Reassessment: Conversely, there exists a subgroup of customers who were initially
 deemed ineligible for the program but have defied expectations by demonstrating low risk and
 maintaining great payment records. The positive outcomes from this cohort beg the question of
 whether they should be reconsidered for the Universal Card offer and potentially opted in to
 harness their full financial potential.
+
+## MODELS
+Excel was used for data 
+
+SQL was used to integrate, and create a relationship between data
+
+Multi Regression Model: Utilizing data analysis techniques, such as multi variable regression analysis to evaluate various variables that strongly correlate with customer performance. Remove existing variables or add new variables if needed.
+
+CHAID Model: CHi-squared Automatic Interaction Detection (CHAID) is a type of decision tree analysis used in data mining and statistical analysis. It's particularly useful when exploring relationships within categorical variables. Here's why CHAID might be used in this scenario like Identifying Key Segment, Optimizing Allocation, Interpretable Results.
+
+
+## FINDINGS
+
+#Bad Rate Difference Between Fuel Only and Universal Customers:
+  A notable difference in bad rates was observed between "Fuel Only" and "Universal" customers within the same profile.
+  The bad rate difference was approximately -0.667, indicating that the bad rate for "Fuel Only" customers was approximately 66.7% lower than that for "Universal" customers.
+#Bad Rates by Different CLI% for Opt-in Customers:
+  Further analysis revealed variations in bad rates based on different CLI% for opt-in customers within each portfolio type.
+  Notably, certain CLI amounts exhibited higher bad rates, particularly for "Fuel Only" customers
+# Multiple Regression 
+  Delinquency ratio and delinquent variables helped us determine which customers were more likely at risk to have balance past the number of days due.
+  Customers that had amounts in BAL_31_60, BAL_61_90, BAL_91_PLUS were at a higher risk 
+  Customers that have a high delinquency ratio could be swapped out and customers who have a low delinquency ratio could be swapped in to generate the most value and revenue while also mitigating risks of underperforming customers.
+
+
