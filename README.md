@@ -34,7 +34,7 @@ Multi Regression Model: Utilizing data analysis techniques, such as multi variab
 CHAID Model: CHi-squared Automatic Interaction Detection (CHAID) is a type of decision tree analysis used in data mining and statistical analysis. It's particularly useful when exploring relationships within categorical variables. Here's why CHAID might be used in this scenario like Identifying Key Segment, Optimizing Allocation, Interpretable Results.
 
 
-##FINDINGS
+## Findings
 
 #Bad Rate Difference Between Fuel Only and Universal Customers:
   A notable difference in bad rates was observed between "Fuel Only" and "Universal" customers within the same profile.
