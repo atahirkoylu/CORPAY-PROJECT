@@ -1,6 +1,6 @@
 # CORPAY-PROJECT
 Developed a data-driven model to improve eligibility criteria for a corporate credit card cross-sell program. Analyzed customer behavior, payment history, and risk metrics to identify high-performing customers previously excluded and underperforming customers mistakenly included.
-# Project Objective
+## Project Objective
 As the company diligently continues the implementation of the Cross-Sell Program, aimed at
 expanding the adoption of Universal Cards among existing Fuel-Only Cardholders, a pertinent
 issue has arisen. It has become evident that not all customers who initially met the eligibility
