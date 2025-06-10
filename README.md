@@ -9,30 +9,24 @@ Conversely, there are customers who did not initially meet the eligibility requi
 exhibited exceptional performance in terms of low risk, great payment history, etc. This
 divergence in customer outcomes has prompted a need for a strategic reevaluation of the
 program, specifically in terms of opting customers in or out.
-# Primary Challenges
-##The primary challenge at hand is twofold:
+# BUSINESS REQUIREMENTS
 
-Opt-Out Dilemma: A segment of customers who met the eligibility criteria and chose to opt
-into the Cross-Sell Program is underperforming, exhibiting low revenue generation, elevated
-risk profiles, and poor payment behavior. The underperformance of this group raises concerns
-about the program's effectiveness and whether these customers should be opted out to
-mitigate associated risk.
+1. What is the current eligibility criteria for the Cross-Sell program?
+2. What performance metrics are being used to evaluate customers?
+3. What is the bad rate difference between opt-in and opt-out customers?
+4. What are the spend and loss differences between different parent accounts?
+5. How are Cross-Sell accounts performing?
+6. Using various analyses, what variables are needed to re-evaluate the eligibility
+model?
+7. Detect customers to swap-in and swap-out using the re-evaluated model.
+8. What is the expected revenue and wrote-off amount using the new eligibility model?
+9. What are the final recommendations of swap-in and swap-out customers?
 
-Opt-In Reassessment: Conversely, there exists a subgroup of customers who were initially
-deemed ineligible for the program but have defied expectations by demonstrating low risk and
-maintaining great payment records. The positive outcomes from this cohort beg the question of
-whether they should be reconsidered for the Universal Card offer and potentially opted in to
-harness their full financial potential.
 
 ## MODELS
-Excel was used for data 
-
-SQL was used to integrate, and create a relationship between data
-
 Multi Regression Model: Utilizing data analysis techniques, such as multi variable regression analysis to evaluate various variables that strongly correlate with customer performance. Remove existing variables or add new variables if needed.
-
 CHAID Model: CHi-squared Automatic Interaction Detection (CHAID) is a type of decision tree analysis used in data mining and statistical analysis. It's particularly useful when exploring relationships within categorical variables. Here's why CHAID might be used in this scenario like Identifying Key Segment, Optimizing Allocation, Interpretable Results.
-
+Sensitive Analysis
 
 ## Findings
 
