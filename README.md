@@ -11,6 +11,7 @@ divergence in customer outcomes has prompted a need for a strategic reevaluation
 program, specifically in terms of opting customers in or out.
 # Primary Challenges
 ##The primary challenge at hand is twofold:
+
 Opt-Out Dilemma: A segment of customers who met the eligibility criteria and chose to opt
 into the Cross-Sell Program is underperforming, exhibiting low revenue generation, elevated
 risk profiles, and poor payment behavior. The underperformance of this group raises concerns
