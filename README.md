@@ -42,4 +42,4 @@ Sensitive Analysis
   Customers that have a high delinquency ratio could be swapped out and customers who have a low delinquency ratio could be swapped in to generate the most value and revenue while also mitigating risks of underperforming customers.
 
 
-https://github.com/atahirkoylu/CORPAY-PROJECT/blob/main/Cross%20Sell%20Perfomance%20Dash.png
+Dashboard Interaction ,a href="https://github.com/atahirkoylu/CORPAY-PROJECT/blob/main/Cross%20Sell%20Perfomance%20Dash.png">View Dasboard</a>
