@@ -36,13 +36,13 @@ CHAID Model: CHi-squared Automatic Interaction Detection (CHAID) is a type of de
 
 ## Findings
 
-#Bad Rate Difference Between Fuel Only and Universal Customers:
+# Bad Rate Difference Between Fuel Only and Universal Customers:
   A notable difference in bad rates was observed between "Fuel Only" and "Universal" customers within the same profile.
   The bad rate difference was approximately -0.667, indicating that the bad rate for "Fuel Only" customers was approximately 66.7% lower than that for "Universal" customers.
-#Bad Rates by Different CLI% for Opt-in Customers:
+# Bad Rates by Different CLI% for Opt-in Customers:
   Further analysis revealed variations in bad rates based on different CLI% for opt-in customers within each portfolio type.
   Notably, certain CLI amounts exhibited higher bad rates, particularly for "Fuel Only" customers
-#Multiple Regression 
+# Multiple Regression 
   Delinquency ratio and delinquent variables helped us determine which customers were more likely at risk to have balance past the number of days due.
   Customers that had amounts in BAL_31_60, BAL_61_90, BAL_91_PLUS were at a higher risk 
   Customers that have a high delinquency ratio could be swapped out and customers who have a low delinquency ratio could be swapped in to generate the most value and revenue while also mitigating risks of underperforming customers.
